@@ -1606,7 +1606,7 @@ h3 {
 }
 
 .testimonials__input::-webkit-slider-thumb:active {
-    background: #4B9200;
+    background: #a2d1db;
 }
 
 @media (max-width: 1280px) {
@@ -1849,13 +1849,13 @@ h3 {
 }
 
 .subscribe__input:focus {
-    color: #4B9200;
-    border: 1px solid #4B9200;
+    color: #a2d1db;
+    border: 1px solid #a2d1db;
 }
 
 .subscribe__input:focus+.subscribe__button {
-    color: #4B9200;
-    border: 1px solid #4B9200;
+    color: #a2d1db;
+    border: 1px solid #a2d1db;
 }
 
 .subscribe__input:focus:invalid {
@@ -1896,7 +1896,7 @@ h3 {
 }
 
 .social__link:hover {
-    color: #4B9200;
+    color: #a2d1db;
 }
 
 .social__icon {
@@ -1912,7 +1912,7 @@ h3 {
 }
 
 .social__item:hover .social__icon {
-    background: #4B9200;
+    background: #a2d1db;
 }
 
 .icon {
@@ -1973,7 +1973,7 @@ h3 {
 
 .copyright__text a:hover {
     text-decoration: underline;
-    color: #4B9200;
+    color: #a2d1db;
 }
 
 @media (max-width: 1280px) {
