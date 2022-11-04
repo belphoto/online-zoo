@@ -84,7 +84,7 @@ wrapperPopup.addEventListener('click', (event) => {
 
 // ...........PETS SLIDER........... //
 
-import petsCards from "../../assets/js/const.js";
+import petsCards from "https://github.com/belphoto/online-zoo/tree/online-zoo/assets/Javascr/const.js";
 
 const arrowPrev = document.querySelector('.arrow__prev')
 const arrowNext = document.querySelector('.arrow__next')
