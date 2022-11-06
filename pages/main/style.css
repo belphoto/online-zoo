@@ -1465,8 +1465,7 @@ h3 {
     }
 }
 
-
-/* testimonials */
+/* ...................TESTIMONIALS................... */
 
 .testimonials {
     position: relative;
@@ -1606,7 +1605,7 @@ h3 {
 }
 
 .testimonials__input::-webkit-slider-thumb:active {
-    background: #a2d1db;
+    background: #4B9200;
 }
 
 @media (max-width: 1280px) {
@@ -1751,7 +1750,7 @@ h3 {
     }
 }
 
-/* op */
+/* ....POPUP.... */
 
 .popup__wrapper {
     position: fixed;
@@ -1797,8 +1796,7 @@ h3 {
     overflow: auto;
 }
 
-
-/* footer */
+/* ...................FOOTER................... */
 
 .footer {
     position: relative;
