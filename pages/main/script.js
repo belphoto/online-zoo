@@ -25,8 +25,7 @@ function closeMenu() {
     body.classList.remove('scroll')
 };
 
-
-// testimonials slider //
+// ...........TESTIMONIALS SLIDER........... //
 
 const testimonialsContainer = document.querySelector('.testimonials__container');
 const testimonialsInput = document.querySelector('.testimonials__input');
@@ -40,7 +39,7 @@ testimonialsInput.addEventListener('input', () => {
     };
 });
 
-// testimonials popup //
+// ...........TESTIMONIALS POPUP........... //
 
 const feedback = document.querySelectorAll('.feedback')
 const feedbackImage = document.querySelectorAll('.feedback__image')
@@ -81,8 +80,7 @@ wrapperPopup.addEventListener('click', (event) => {
     };
 });
 
-
-// pets slider //
+// ...........PETS SLIDER........... //
 
 import petsCards from "https://belphoto.github.io/online-zoo/assets/Javascr/const.js";
 
