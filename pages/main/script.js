@@ -1,4 +1,4 @@
-// ...........BURGER MENU........... //
+// burger menu //
 
 const openBurger = document.querySelector('.hamburger__open')
 const closeBurger = document.querySelector('.hamburger__close')
@@ -26,7 +26,7 @@ function closeMenu() {
 };
 
 
-// ...........TESTIMONIALS SLIDER........... //
+// testimonials slider //
 
 const testimonialsContainer = document.querySelector('.testimonials__container');
 const testimonialsInput = document.querySelector('.testimonials__input');
@@ -40,7 +40,7 @@ testimonialsInput.addEventListener('input', () => {
     };
 });
 
-// ...........TESTIMONIALS POPUP........... //
+// testimonials popup //
 
 const feedback = document.querySelectorAll('.feedback')
 const feedbackImage = document.querySelectorAll('.feedback__image')
@@ -82,9 +82,9 @@ wrapperPopup.addEventListener('click', (event) => {
 });
 
 
-// ...........PETS SLIDER........... //
+// pets slider //
 
-import petsCards from "https://github.com/belphoto/online-zoo/tree/online-zoo/assets/Javascr/const.js";
+import petsCards from "https://belphoto.github.io/online-zoo/assets/Javascr/const.js";
 
 const arrowPrev = document.querySelector('.arrow__prev')
 const arrowNext = document.querySelector('.arrow__next')
