@@ -212,7 +212,7 @@
     top: -47px;
     width: 40px;
     height: 40px;
-    background: url('../../assets/images/roller_icon.png');
+    background: url('../../assets/images/two_icon.png');
     transition: all 0.5s ease;
 }
 
@@ -227,7 +227,7 @@
 }
 
 
-/* ....AMOUNT.... */
+/* amount */
 
 .donate__amount {
     position: relative;
@@ -253,7 +253,7 @@
 }
 
 .donate__input:focus {
-    background: url(../../assets/icons/dollar_active.svg);
+    background: url(../../assets/icons/dollar2.svg);
     background-repeat: no-repeat;
     background-position: center right+10px;
     border: 1px solid #4B9200;
@@ -275,7 +275,7 @@
 }
 
 
-/* ....OPTIONS.... */
+/* options */
 
 .options {
     display: flex;
